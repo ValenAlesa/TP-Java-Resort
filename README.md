@@ -6,10 +6,11 @@
 - Alesandroni, Valentino (51415).
 
 ## Descripción
+El presente proyecto propone un sistema integral para la gestión de reservas de un complejo turístico con tematicas de one piece. La plataforma permite a los administradores diseñar y ofrecer paquetes ('Publicaciones') que combinan estadías con actividades recreativas y servicios adicionales. Los usuarios pueden explorar este catálogo y generar sus reservas de forma autónoma, mientras el sistema automatiza la cotización final y optimiza la asignación de recursos y coordinadores.
 
 ## Modelo de Dominio
 
-![Diagrama de Dominio](HotelTrans.drawio.png)
+![Diagrama de Dominio](Resort GranLine.png)
 ## Checklist de Requerimientos
 
 ### Regularidad
