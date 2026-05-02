@@ -1,7 +1,7 @@
 # Resort Grand Line
 
 ## Integrantes
-- Ramiro Garcia Suarez (51047)
+- Ramiro Garcia Suarez (51175)
 - Carlos Chocobar (50968)
 - Alesandroni, Valentino (51415).
 
