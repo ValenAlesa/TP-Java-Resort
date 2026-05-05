@@ -10,7 +10,7 @@ El presente proyecto propone un sistema integral para la gestión de reservas de
 
 ## DER
 
-![Diagrama de Dominio](DER-Resort.jpg)
+![Diagrama de Dominio](DER_Resort.jpg)
 ## Checklist de Requerimientos
 
 ### Regularidad
